@@ -1,0 +1,8 @@
+/Users/colerose/Documents/CIDM 3312/examplefinalproject-2/obj/Debug/net7.0/examplefinalproject-2.csproj.AssemblyReference.cache
+/Users/colerose/Documents/CIDM 3312/examplefinalproject-2/obj/Debug/net7.0/examplefinalproject-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colerose/Documents/CIDM 3312/examplefinalproject-2/obj/Debug/net7.0/examplefinalproject-2.AssemblyInfoInputs.cache
+/Users/colerose/Documents/CIDM 3312/examplefinalproject-2/obj/Debug/net7.0/examplefinalproject-2.AssemblyInfo.cs
+/Users/colerose/Documents/CIDM 3312/examplefinalproject-2/obj/Debug/net7.0/examplefinalproject-2.csproj.CoreCompileInputs.cache
+/Users/colerose/Documents/CIDM 3312/examplefinalproject-2/obj/Debug/net7.0/examplefinalproject-2.MvcApplicationPartsAssemblyInfo.cache
+/Users/colerose/Documents/CIDM 3312/examplefinalproject-2/obj/Debug/net7.0/examplefinalproject-2.RazorAssemblyInfo.cache
+/Users/colerose/Documents/CIDM 3312/examplefinalproject-2/obj/Debug/net7.0/examplefinalproject-2.RazorAssemblyInfo.cs
